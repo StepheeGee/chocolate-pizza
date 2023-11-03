@@ -1,0 +1,120 @@
+
+* body {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  max-width: 900px;
+}
+
+.article {
+  text-indent: 50px;
+  padding: 5px;
+}
+
+/* header */
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  margin: 2px;
+}
+
+.delicious{
+  font-family: tangerine;
+  font-size: 28px;
+}
+
+.sub-text{
+  font-size: 10px;
+}
+.nav-right .icons {
+  display: flex;
+}
+
+.nav-right .icons img {
+  margin-right: 2px;
+}
+
+/* breakline */
+
+.breakline {
+  width: 80%;
+  height: 10px;
+  background-color: #c0c0c0;
+  margin: 10px auto;
+}
+
+/* title */
+
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 25px 0;
+}
+
+.title-left {
+  display: flex;
+  align-items: normal;
+  flex-direction: column;
+  text-align: left;
+}
+
+.title-right {
+  display: flex;
+  font-size: 8px;
+  margin: 5px;
+}
+
+.title{
+  font-family: roboto condensed;
+  font-size: 30px;
+  font-weight: 600;
+
+}
+
+
+
+
+/* Recipe Style */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.notebook-paper {
+  background-color: #f4f1a4;
+  background-image: linear-gradient(0deg, transparent 15%, #3d3838 19%, #d60c0c 5%, transparent 15%);
+  background-size: 8px 8px;
+  display: inline-block;
+  padding: 20px;
+}
+
+.recipe {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  display: flex;
+  flex: row;
+  padding: 20px 20px;
+}
+
+
+.recipe-left li,
+.recipe-right li {
+margin: 10px;
+}
+
+
