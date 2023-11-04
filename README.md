@@ -40,6 +40,8 @@ I didn't make it as far as I had hoped with this assignment. I designed how I wa
 
 I tried to match the fonts as much as a I could. They don't really match. 
 
+One place I errored is that I did not do my work on branches. So I went back and created a branch so that I have a record of the iterations. 
+
 What observations or questions do you have about what you’ve learned so far?
 I thought it was cool that you can make CSS look like notebook paper. I didn't execute it as well as I wanted to. But if I took more time, I probably could. 
 
